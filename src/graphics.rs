@@ -361,7 +361,7 @@ mod tests {
     use super::*;
     use crate::color::*;
     use embedded_graphics::{
-        prelude::*,
+        prelude::{Point, *},
         primitives::{Line, PrimitiveStyle},
     };
 
