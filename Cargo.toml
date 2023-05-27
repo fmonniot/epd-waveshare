@@ -21,7 +21,7 @@ embedded-hal = {version = "0.2.4", features = ["unproven"]}
 bit_field = "0.10.1"
 
 [dev-dependencies]
-embedded-graphics = "0.7.1"
+embedded-graphics = "0.8.0"
 
 embedded-hal-mock = "0.8"
 
